@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    background-color: rgb(0, 25, 250);
+}
+    
+p{  
+    text-align: center;
+    background-color: blue;
+}
+em strong {
+    color: red;
+}
